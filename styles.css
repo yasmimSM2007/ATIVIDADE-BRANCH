@@ -8,3 +8,8 @@ body {
 form {
   margin-top: 50px;
 }
+
+h1{
+    color: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
